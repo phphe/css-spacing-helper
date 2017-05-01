@@ -1,4 +1,7 @@
 /* margin */
+.m-a-0{
+  margin: 0;
+}
 .m-t-0{
   margin-top: 0;
 }
@@ -20,6 +23,9 @@
   margin-bottom: 0;
 }
 
+.m-a-sm{
+  margin: .5rem;
+}
 .m-t-sm{
   margin-top: .5rem;
 }
@@ -41,6 +47,9 @@
   margin-bottom: .5rem;
 }
 
+.m-a{
+  margin: 1rem;
+}
 .m-t{
   margin-top: 1rem;
 }
@@ -63,6 +72,9 @@
 }
 
 /* padding */
+.p-a-0{
+  padding: 0;
+}
 .p-t-0{
   padding-top: 0;
 }
@@ -84,6 +96,9 @@
   padding-bottom: 0;
 }
 
+.p-a-sm{
+  padding: .5rem;
+}
 .p-t-sm{
   padding-top: .5rem;
 }
@@ -105,6 +120,9 @@
   padding-bottom: .5rem;
 }
 
+.p-a{
+  padding: 1rem;
+}
 .p-t{
   padding-top: 1rem;
 }
